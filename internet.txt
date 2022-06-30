@@ -1,0 +1,71 @@
+1 o que sao metodos http ?
+   
+sao requisiçoes 
+
+2 quais sao os metodos http mais utilizados
+ atualmente
+
+ (GET, HEAD, POST, PUT, DELETE, TRACE, 
+OPTIONS e CONNECT)
+
+3 quais sao os 2 principais metodos http
+qual a diferença entre eles
+
+GET cria uma seqüência de 
+consulta(query string) e a
+ acrescenta à URL do script no
+ servidor que manipula a solicitação
+
+método POST cria um par nome/valor que
+ são passados no corpo da mensagem de
+ pedido HTTP.
+
+4o que sao requisiçoes http quais os tipos
+?  
+são mensagens enviadas pelo cliente
+ para iniciar uma ação no servidor(GET,
+ HEAD, POST, PUT, DELETE, TRACE, 
+OPTIONS e CONNECT)
+
+5 como funciona uma requisiçao
+
+envia uma mensagem pro servidor e o servidor usa um
+metodo pra dewvolver uma resposta
+
+6 uque e o metodo get
+e uma requisiçao que manda os dados na url
+
+7 qual o protocolo de internet para transferencia
+segura com uso de certificado digital utilizando
+em sites de compras eletronicas ?
+
+SSL (Secure Sockets Layer — Camada de Portas de
+ Segurança) permite a comunicação segura entre
+ os lados cliente e servidor de uma aplicação web
+
+8 quais os perincipais metodos de uma requisiçao rest ?
+
+get post put delete
+
+9 qual a diferença entre ipv4 e ipv6
+
+sao os numeros de ip disponiveis
+
+10 faça um resumo sobre os seguintes protocolos http tcp udp
+smtp e ftp
+ 
+http e um protocolo de transferencia que permite a navegaçao 
+atraves de uma url
+
+tcp e uqe determina  caminho para os pacotes seguirem
+mais seguro que o udp 
+
+udp mesma funçao do tcp oferece um processo de comunicaçao mais rapido
+mas com menos segurança
+
+smtp e o protocolo para envio de emails
+
+ftp protocolo de transferencia de arquivos
+
+
+
